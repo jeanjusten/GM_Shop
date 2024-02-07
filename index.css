@@ -1,0 +1,321 @@
+/* ------------------- */
+/* Animações de links âncora suaves ao clicar, aplicadas à todo o documento e cor de BG */
+/* ------------------- */
+html {
+	scroll-behavior: smooth;
+    /*
+     */
+}
+
+/* ------------------- */
+/* Imagem de Background */
+/* ------------------- */
+.bg{
+background-image: url(./Imagens/background.png);
+background-size: 1920px;
+background-repeat: no-repeat;
+}
+
+/* ------------------- */
+/* Reset */
+/* ------------------- */
+* {
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* ------------------- */
+/* Cabeçalho */
+/* ------------------- */
+.fakeheader {
+
+    width: 100%;
+    height: auto;
+    min-height: 80px;
+    max-height: 150px;
+}
+
+.main {
+    z-index: 99; /* Para o cabeçalho ficar sempre em prioridade de sobreposição na página*/
+    position: fixed;
+    background: rgb(30,84,193);
+    background-color: linear-gradient(0deg, rgba(23, 65, 148, 0.562) 100%, rgba(42,107,243,0.6) 100%);
+    height: auto;
+    max-height: 150px;
+    width: 100%;
+    font-family: 'Bebas Neue', sans-serif;
+    padding:16px 25px;
+}
+
+.titulo{
+    text-align: right;
+}
+
+h1 {
+    font-family: 'Titan One', sans-serif;
+    font-size: 36px;
+    font-weight: normal;
+    color: white;
+}
+
+.logo{
+    height: 50px;
+    filter:saturate(0);
+    filter:brightness(100);
+}
+
+.logo:hover{
+    filter: none;
+}
+
+header nav li {
+    display:inline;
+    font-size: 20px;
+    margin-left: 25px;
+}
+
+.botao{
+    color:white;
+    text-decoration: none;
+    text-align: center;
+    width: 95px;
+    padding: 5px;
+    border-radius: 12px;
+    background: rgb(47,197,197);
+    background: linear-gradient(0deg, rgba(47,197,197,1) 0%, rgba(93,218,218,1) 100%);
+}
+
+.botao:hover{
+    font-weight: 450;
+    color:#11FFFF;
+    text-decoration: underline;
+    text-align: center;
+    background: white;
+}
+
+.lista{
+    padding-bottom: 15px;
+}
+
+.link{
+    text-decoration: none;
+    color:white;
+}
+
+.link:hover{
+    text-decoration: underline;
+    color: #11FFFF
+}
+
+.container {
+    max-width: 1280px; /* Adicionando largura máxima para melhorar a leitura em telas muito grandes */
+    width: 100%;
+    margin: 0 auto;
+}
+
+header .container{
+    display:flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+/* ------------------- */
+/* Seção SOBRE */
+/* ------------------- */
+.containersobre{
+    padding-top: 40px;
+    color:white;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    margin-right: 100px;
+}
+
+/* Criando borda divisória entre ''página'' 1 e 2 */
+.page1{ 
+    border-bottom: 18px solid white;
+}
+
+.cenario{
+    margin-top: 200px;
+    position: absolute;
+    max-height: 600px;
+}
+
+.cenarioluz{
+    margin-top: 200px;
+    position: absolute;
+    max-height: 600px;
+    transition: filter .5s ease-in; /* Efeito suave de transição */
+    filter: grayscale(100%);
+    filter: alpha(opacity=0); /* Deixando o cenário invisível */
+}
+
+.cenarioluz:hover{
+    transition: filter .5s ease-in-out; /* Efeito suave de transição */
+    filter: none;                       /* Retoma a cor original ao cenário */
+    filter: alpha(opacity=100);         /* Cenário fica visível */
+}
+
+.mainimg{
+    max-height: 800px;
+}
+
+.containertexto{
+    padding-top: 120px;
+    padding-left: 80px;
+}
+
+.h2{
+    font-family: 'Titan One', sans-serif;
+    font-size: 46px;
+    color: #11FFFF;
+    padding-bottom: 20px;
+}
+
+h2 {
+    font-family: 'Acme', sans-serif;
+    font-size: 34px;
+    color: white;
+}
+
+.loja {
+    max-width: 600px;
+    font-family: 'Acme', sans-serif;
+    font-size: 24px;
+    color: white;
+}
+
+.lista{
+    padding-top: 15px;
+    gap: 15px;
+    display:flex;
+    flex-direction: row; /* Deixar as logos alinhadas */
+    list-style-type: none; /* Remover os Bullets */
+}
+
+.minilogo{
+    height: 30px;
+    filter:contrast(0%);
+    filter:saturate(0%);
+    filter:brightness(100)
+}
+
+/* Efeito Hover para Colorir as logos */
+.minilogo:hover{
+    filter: none;
+}
+
+/* ------------------- */
+/* Seção de Contato */
+/* ------------------- */
+.h2s {
+    padding-top: 20px;
+    align-items: center;
+    text-align: center;
+    font-family: 'Titan One', sans-serif;
+    font-size: 34px;
+    color: #11FFFF;
+}
+
+.contato{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.form{
+    resize:none;
+    width: 630px;
+    max-width: 630px;
+    display: flex;
+    flex-direction: column;
+    gap:15px;
+    padding-bottom: 25px;
+}
+
+.sidec{
+    margin-left: 700px;
+    position: absolute;
+    max-height: 450px;
+}
+
+.redes{
+    list-style-type: none; /* Remover os Bullets */
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    gap:25px;
+}
+
+.rsocial{
+    text-decoration: none;
+    color: white;
+    filter:saturate(0);
+    filter:brightness(100);
+}
+
+.rsocial:hover{
+    filter:none;
+}
+
+.socialimg{
+    height:40px;
+}
+
+.send{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+    align-self: center;
+    width: 200px;
+    color:white;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px;
+    border-radius: 12px;
+    background: rgb(47,197,197);
+    background: linear-gradient(0deg, rgba(47,197,197,1) 0%, rgba(93,218,218,1) 100%);
+}
+
+.send:hover{
+    font-weight: 450;
+    color:#11FFFF;
+    text-decoration: underline;
+    text-align: center;
+    background: white;
+}
+
+/* ------------------- */
+/* Seção de Rodapé */
+/* ------------------- */
+.footbody{
+    height: 142px;
+    max-height: 300px;
+    padding-bottom: 5px;
+    position: relative;
+}
+
+.footer{
+    color:white;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    margin-right: 100px;
+}
+
+.cenarioluz2:hover{
+    transition: filter .5s ease-in-out; /* Efeito suave de transição */
+    filter: none;                       /* Retoma a cor original ao cenário */
+    filter: alpha(opacity=100);         /* Cenário fica visível */
+}
+
+.endereco{
+    color:white;
+    font-family: 'Acme', sans-serif;
+    font-size: 24px;
+}
