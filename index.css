@@ -75,13 +75,21 @@ header nav li {
     margin-left: 25px;
 }
 
+.botoes{
+    display: flex;
+    flex-direction: column;
+    max-width: 100px;
+    min-width: 130px;;
+}
+
 .botao{
+    margin-top: 3px;
+    margin-right: 5px;
     color:white;
     text-decoration: none;
     text-align: center;
-    width: 95px;
-    padding: 5px;
-    border-radius: 12px;
+    padding: 5px 5px;
+    border-radius: 10px;
     background: rgb(47,197,197);
     background: linear-gradient(0deg, rgba(47,197,197,1) 0%, rgba(93,218,218,1) 100%);
 }
@@ -172,7 +180,7 @@ header .container{
 
 .h2{
     font-family: 'Titan One', sans-serif;
-    font-size: 46px;
+    font-size: 40px;
     color: #11FFFF;
     padding-bottom: 20px;
 }
@@ -241,6 +249,7 @@ h2 {
 .sidec{
     margin-left: 700px;
     position: absolute;
+    bottom:-580px;
     max-height: 450px;
 }
 
