@@ -42,7 +42,7 @@ background-repeat: no-repeat;
     background: rgb(30,84,193);
     background-color: linear-gradient(0deg, rgba(23, 65, 148, 0.562) 100%, rgba(42,107,243,0.6) 100%);
     height: auto;
-    max-height: 150px;
+    max-height: 180px;
     width: 100%;
     font-family: 'Bebas Neue', sans-serif;
     padding:16px 25px;
@@ -247,6 +247,7 @@ h2 {
 }
 
 .sidec{
+    overflow: hidden;
     margin-left: 700px;
     position: absolute;
     bottom:-580px;
