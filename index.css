@@ -160,13 +160,11 @@ header .container{
     max-height: 600px;
     transition: filter .5s ease-in; /* Efeito suave de transição */
     filter: grayscale(100%);
-    filter: alpha(opacity=0); /* Deixando o cenário invisível */
 }
 
 .cenarioluz:hover{
     transition: filter .5s ease-in-out; /* Efeito suave de transição */
     filter: none;                       /* Retoma a cor original ao cenário */
-    filter: alpha(opacity=100);         /* Cenário fica visível */
 }
 
 .mainimg{
