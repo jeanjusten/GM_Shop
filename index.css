@@ -11,7 +11,7 @@ html {
 /* Imagem de Background */
 /* ------------------- */
 .bg{
-background-image: url(./Imagens/background.png);
+background-image: url(./Images/background.png);
 background-size: 1920px;
 background-repeat: no-repeat;
 }
