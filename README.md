@@ -6,12 +6,19 @@
   It was a very fun project, using only HTML and CSS, and i could learn a lot just by messing up with the hover selector.
   </p>
 
+<!--Menu-->
+## :large_orange_diamond: Table of Content
+[Details](#large_orange_diamond-hover-detail) <br>
+[Tools Used](#large_orange_diamond-tools-used)  <br>
+[Result](#large_orange_diamond-see-the-page-live-now-on-vercel)
+
+
 <!--Details-->
 ## :large_orange_diamond: Hover Detail
 ![2024-02-0723-19-48-ezgif com-crop](https://github.com/jeanjusten/site_gm_shop/assets/156855412/e22adc96-f43a-4e1b-a6b2-35affb9e7b95)
 <p>
   This awesome ''lighting up" effect was done with <strong>hover</strong> selector only.
-  The effect is achieved by overlaping two images (in this case, i used the same dimensions for them): 
+  The effect is achieved by overlaping two images (in this case, i used the same dimensions for them, to make it easier): 
 <li>The Block with branches</li> 
 <li>The glowing leaves</li> <br>
   Then i applied a 100% grayscale filter on the leaves, tooking off the filter upon hovering the mouse on it. 
