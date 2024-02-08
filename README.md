@@ -2,7 +2,7 @@
 ![2024-02-0723-12-43-ezgif com-crop](https://github.com/jeanjusten/site_gm_shop/assets/156855412/74c7abf0-5907-4cf0-8c4c-9eb25f57796a)
 # :computer: Landing Page - GM! Games
   <p>
-  This is the first Landing Page i developed. It was part of a project for EBAC (Escola Britânica de Artes Criativas e Tecnologia).
+  This is the first Landing Page i developed. It was part of a project for EBAC (Escola Britânica de Artes Criativas e Tecnologia).<br>
   It was a very fun project, using only HTML and CSS, and i could learn a lot just by messing up with the hover selector.
   </p>
 
