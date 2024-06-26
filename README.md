@@ -8,13 +8,21 @@
 
 <!--Menu-->
 ## :large_orange_diamond: Table of Content
-[Details](#large_orange_diamond-hover-detail) <br>
-[Tools Used](#large_orange_diamond-tools-used)  <br>
-[Result](#large_orange_diamond-see-the-page-live-now-on-vercel)
+
+- [1. Details](#large_orange_diamond-details)
+  - [1.1 Hover Detail](#arrow_forward-hover-detail)
+- [2. Tools and Technologies](#large_orange_diamond-tools-and-technologies)
+  - [2.1 Stacks Used](#arrow_forward-stacks-used)
+- [3. Result](#large_orange_diamond-result)
+  - [3.1 Deploy on Vercel](#arrow_forward-vercel)
+- [4. Etcetera](#large_orange_diamond-etcetera)
+  - [4.1 About](#arrow_forward-about)
+  - [4.2 Licenses](#arrow_forward-licenses)
 
 
 <!--Details-->
-## :large_orange_diamond: Hover Detail
+## :large_orange_diamond: Details
+### :arrow_forward: Hover Detail
 ![2024-02-0723-19-48-ezgif com-crop](https://github.com/jeanjusten/site_gm_shop/assets/156855412/e22adc96-f43a-4e1b-a6b2-35affb9e7b95)
 <p>
   This awesome ''lighting up" effect was done with <strong>hover</strong> selector only.
@@ -26,8 +34,24 @@
 </p>
 
 <!--Tools Used-->
-## :large_orange_diamond: Tools Used
+## :large_orange_diamond: Tools and Technologies
+### :arrow_forward: Stacks Used
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-## :large_orange_diamond: See the page live now on Vercel
+<!--Result-->
+## :large_orange_diamond: Result
+### :arrow_forward: Vercel
 <a href="https://site-gm-shop.vercel.app/" alt="See the page live on Vercel now">GM! Shop - Landing Page on Vercel</a>
+
+<!--Etcetera-->
+## :large_orange_diamond: Etcetera
+### :arrow_forward: About
+<p>
+  GM! Landing Page is a project made by Jean Justen to study HTML and CSS.
+  The objective was getting used to CSS styling and play with hover effects.
+</p>
+
+### :arrow_forward: Licenses
+<p>
+  You may use, copy, share and modify the code as you please. No credits needed.
+</p>
