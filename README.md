@@ -9,7 +9,7 @@
 <!--Menu-->
 ## :large_orange_diamond: Table of Content
 
-- [1. Details](#large_orange_diamond-details)
+- [1. Features](#large_orange_diamond-features)
   - [1.1 Hover Detail](#arrow_forward-hover-detail)
 - [2. Tools and Technologies](#large_orange_diamond-tools-and-technologies)
   - [2.1 Stacks Used](#arrow_forward-stacks-used)
@@ -21,7 +21,7 @@
 
 
 <!--Details-->
-## :large_orange_diamond: Details
+## :large_orange_diamond: Features
 ### :arrow_forward: Hover Detail
 ![2024-02-0723-19-48-ezgif com-crop](https://github.com/jeanjusten/site_gm_shop/assets/156855412/e22adc96-f43a-4e1b-a6b2-35affb9e7b95)
 <p>
