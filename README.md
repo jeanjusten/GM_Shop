@@ -41,7 +41,7 @@
 <!--Result-->
 ## :large_orange_diamond: Result
 ### :arrow_forward: Vercel
-<a href="https://site-gm-shop.vercel.app/" alt="See the page live on Vercel now">GM! Shop - Landing Page on Vercel</a>
+- <a href="https://site-gm-shop.vercel.app/" alt="See the page live on Vercel now">GM! Shop - Landing Page on Vercel</a>
 
 <!--Etcetera-->
 ## :large_orange_diamond: Etcetera
