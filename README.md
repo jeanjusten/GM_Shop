@@ -8,9 +8,11 @@
 
 <!--Menu-->
 ## :large_orange_diamond: Table of Content
-
-- [1. Features](#large_orange_diamond-features)
-  - [1.1 Hover Detail](#arrow_forward-hover-detail)
+- [1. Patch Notes](#large_orange_diamond-patch-notes)
+  - [1.1 Latest Update](#pushpin-latest-update)
+  - [1.2 Future Updates](#bookmark_tabs-future-updates)
+- [2. Features](#large_orange_diamond-features)
+  - [2.1 Hover Detail](#arrow_forward-hover-detail)
 - [2. Tools and Technologies](#large_orange_diamond-tools-and-technologies)
   - [2.1 Stacks Used](#arrow_forward-stacks-used)
 - [3. Result](#large_orange_diamond-result)
@@ -19,6 +21,18 @@
   - [4.1 About](#arrow_forward-about)
   - [4.2 Licenses](#arrow_forward-licenses)
 
+<!--Patch Notes-->
+## :large_orange_diamond: Patch Notes
+### :pushpin: Latest Update
+<strong></strong>
+
+### :bookmark_tabs: Future Updates
+<p>
+Here stand my planned updates for this website:
+
+- Add a Login system and saving user list info.
+- Add web responsiveness.
+</p>
 
 <!--Details-->
 ## :large_orange_diamond: Features
