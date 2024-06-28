@@ -13,13 +13,13 @@
   - [1.2 Future Updates](#bookmark_tabs-future-updates)
 - [2. Features](#large_orange_diamond-features)
   - [2.1 Hover Detail](#arrow_forward-hover-detail)
-- [2. Tools and Technologies](#large_orange_diamond-tools-and-technologies)
-  - [2.1 Stacks Used](#arrow_forward-stacks-used)
-- [3. Result](#large_orange_diamond-result)
-  - [3.1 Deploy on Vercel](#arrow_forward-vercel)
-- [4. Etcetera](#large_orange_diamond-etcetera)
-  - [4.1 About](#arrow_forward-about)
-  - [4.2 Licenses](#arrow_forward-licenses)
+- [3. Tools and Technologies](#large_orange_diamond-tools-and-technologies)
+  - [3.1 Stacks Used](#arrow_forward-stacks-used)
+- [4. Result](#large_orange_diamond-result)
+  - [4.1 Deploy on Vercel](#arrow_forward-vercel)
+- [5. Etcetera](#large_orange_diamond-etcetera)
+  - [5.1 About](#arrow_forward-about)
+  - [5.2 Licenses](#arrow_forward-licenses)
 
 <!--Patch Notes-->
 ## :large_orange_diamond: Patch Notes
