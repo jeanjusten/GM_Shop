@@ -10,7 +10,6 @@
 ## :large_orange_diamond: Table of Content
 - [1. Patch Notes](#large_orange_diamond-patch-notes)
   - [1.1 Latest Update](#pushpin-latest-update)
-  - [1.2 Future Updates](#bookmark_tabs-future-updates)
 - [2. Features](#large_orange_diamond-features)
   - [2.1 Hover Detail](#arrow_forward-hover-detail)
 - [3. Tools and Technologies](#large_orange_diamond-tools-and-technologies)
@@ -25,14 +24,6 @@
 ## :large_orange_diamond: Patch Notes
 ### :pushpin: Latest Update
 <strong></strong>
-
-### :bookmark_tabs: Future Updates
-<p>
-Here stand my planned updates for this website:
-
-- Add a Login system and saving user list info.
-- Add web responsiveness.
-</p>
 
 <!--Details-->
 ## :large_orange_diamond: Features
